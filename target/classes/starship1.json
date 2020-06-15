@@ -1,0 +1,32 @@
+ [
+		{
+			"name": "CR90 corvette",
+			"model": "CR90 corvette",
+			"manufacturer": "Corellian Engineering Corporation",
+			"costincredits": "3500000",
+			"length": "150",
+			"maxatmospheringspeed": "950",
+			"crew": "30-165",
+			"passengers": "600",
+			"cargocapacity": "3000000",
+			"consumables": "1 year",
+			"hyperdriverating": "2.0",
+			"MGLT": "60",
+			"starshipclass": "corvette"
+		},
+		{
+			"name": "Star Destroyer",
+			"model": "Imperial I-class Star Destroyer",
+			"manufacturer": "Kuat Drive Yards",
+			"costincredits": "150000000",
+			"length": "1,600",
+			"maxatmospheringspeed": "975",
+			"crew": "47,060",
+			"passengers": "n/a",
+			"cargocapacity": "36000000",
+			"consumables": "2 years",
+			"hyperdriverating": "2.0",
+			"MGLT": "60",
+			"starshipclass": "Star Destroyer"
+		}
+	]
